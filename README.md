@@ -1,2 +1,5 @@
 # Challenges
- Challenging Projects
+  Challenging projects for code learning.
+  
+  Challenging projects solved during my learning process.
+ 
