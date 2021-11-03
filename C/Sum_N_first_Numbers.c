@@ -1,8 +1,8 @@
 /* ******************************************************************/
 /*                                                                  */                                                          
 /*   Sum_N_first_Numbers.c                                          */                                                        
-/*   By: LuisCosta                           				        */
-/*                                                                  */  
+/*   By:LuisCosta                           				        */
+/*   Add the first N integers, with N defined by the user.          */  
 /* ******************************************************************/
 #include <stdio.h>
 int main()
